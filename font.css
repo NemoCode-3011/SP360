@@ -1,0 +1,17 @@
+@font-face {
+  font-family: "Bebas Neue";
+  src: url("./fonts/BebasNeue\ Bold.otf") format("truetype");
+}
+
+@font-face {
+  font-family: "Nimbus Sans L";
+  src: url("./fonts/NimbusSanL-Reg.otf") format("truetype");
+}
+
+.bebas{
+  font-family: "Bebas Neue";
+}
+
+.Nimbus{
+  font-family: "Nimbus Sans L";
+}
